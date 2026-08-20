@@ -1,0 +1,58 @@
+{
+  "players": [
+    "DR|Retro",
+    "B3stRayyyy",
+    "Eqweeky",
+    "саня квадробер",
+    "Mishka",
+    "сахоня",
+    "kxxao",
+    "wortekz",
+    "Toshka",
+    "Roocher",
+    "UncleBulat",
+    "Unees"
+  ],
+  "drawnPlayers": [
+    "DR|Retro",
+    "B3stRayyyy",
+    "Eqweeky",
+    "саня квадробер",
+    "Mishka",
+    "сахоня",
+    "kxxao",
+    "wortekz",
+    "Toshka",
+    "Roocher",
+    "UncleBulat",
+    "Unees"
+  ],
+  "groups": [
+    [
+      "DR|Retro",
+      "B3stRayyyy",
+      "Eqweeky"
+    ],
+    [
+      "саня квадробер",
+      "Mishka",
+      "сахоня"
+    ],
+    [
+      "kxxao",
+      "wortekz",
+      "Toshka"
+    ],
+    [
+      "Roocher",
+      "UncleBulat",
+      "Unees"
+    ]
+  ],
+  "rrGroupIndex": 0,
+  "rrView": "standings",
+  "matches": {},
+  "playoffs": {},
+  "drawStarted": true,
+  "followConfirmed": true
+}
