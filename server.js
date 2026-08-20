@@ -65,4 +65,4 @@ const server = http.createServer((req, res) => {
   send(res, 200, types[ext] || 'application/octet-stream', fs.readFileSync(filePath));
 });
 
-server.listen(PORT, () => console.log(`Tournament site: http://localhost:${PORT}`));
+server.listen(PORT, '0.0.0.0', () => console.log(`Tournament site: http://0.0.0.0:${PORT}`));
